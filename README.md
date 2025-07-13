@@ -1,8 +1,6 @@
-# 🤖 Artificial Intelligence Course
+#  Artificial Intelligence Course
 
 > A comprehensive exploration of artificial intelligence concepts, algorithms, applications and hands-on projects developed during January - June 2025.
-
-![AI Course Banner](https://img.shields.io/badge/AI%20Course-2025-blue?style=for-the-badge&logo=robot)
 
 ## 📋 Course Purpose
 
@@ -102,6 +100,3 @@ In the [AI-Tools-Exploration](./AI-Tools-Exploration) section, I explored modern
 **[Razorshi Prozzal Talukder](https://www.linkedin.com/in/razorshi-talukder-141425198/)**
 
 ---
-
-![Made with AI](https://img.shields.io/badge/Made%20with-AI-green?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202025-lightgrey?style=flat-square)
